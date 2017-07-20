@@ -1,0 +1,9 @@
+Denormalization
+
+Converting databases from a higher normal form to a lower form is 
+Denormalization.
+
+De-normalization might be requrired for the following reasons:
+
+1. To decrease the complexity of JOINS in DBMS.
+2. Increase the speed of processing SQL queries.
